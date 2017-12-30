@@ -4,4 +4,5 @@
 phpinfo();
 //Teste commit
 //Teste pull
+//teste update web
 ?>
